@@ -4,6 +4,9 @@ Here you'll find some technical essays I've written over the years that are of a
 ##### (2013) [Discrete Half Flux Diameter](https://github.com/wltrup/Algs-Discrete-Half-Flux-Diameter)
 A colleague interested in astrophotography asked me for an algorithm to compute the _half-flux diameter_ of an image.
 
+##### (2008) [Card Spread](https://github.com/wltrup/Algs-Card-Spread)
+An algorithm to spread cards in a neat way inside of a rectangle of a given length, taking into account the _preferred overlap_, the _maximum overlap_ allowed, and a possible _gap_ surrounding the middle card.
+
 ##### (2008) [Detecting Ellipse-Ellipse Intersections](https://github.com/wltrup/Algs-Detecting-Ellipse-Ellipse-Intersections)
 In this essay, I derive the mathematical basis of an algorithm to detect intersections between two arbitrarily positioned and arbitrarily oriented ellipses on the same plane.
 
