@@ -4,6 +4,8 @@ Here you'll find some technical essays I've written over the years that are of a
 ##### (2013) [Discrete Half Flux Diameter](https://github.com/wltrup/Algs-Discrete-Half-Flux-Diameter)
 A colleague interested in astrophotography asked me for an algorithm to compute the _half-flux diameter_ of an image.
 
+It turns out that the recipes commonly found on the internet are actually incorrect so I had to analyse the problem in an excruciatingly mathematical detail to devise a correct algorithm.
+
 ##### (2008) [Card Spread](https://github.com/wltrup/Algs-Card-Spread)
 An algorithm to spread cards in a neat way inside of a rectangle of a given length, taking into account the _preferred overlap_, the _maximum overlap_ allowed, and a possible _gap_ surrounding the middle card.
 
