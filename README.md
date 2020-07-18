@@ -1,6 +1,12 @@
 # Algorithms
 Here you'll find some technical essays I've written over the years that are of a more practical nature, algorithms of my own creation, some of which have actually been used in commercial software.
 
+##### (2019) [Independent Concurrent Animations of Multiple Parameters](https://github.com/wltrup/Algs-Parameter-Animations)
+
+This essay describes the mathematical steps needed to synchronize independent animations of multiple parameters, running concurrently, so as to minimize the number of function evaluations.
+
+Check out the actual repository to see some nifty animations.
+
 ##### (2013) [Discrete Half Flux Diameter](https://github.com/wltrup/Algs-Discrete-Half-Flux-Diameter)
 A colleague interested in astrophotography asked me for an algorithm to compute the _half-flux diameter_ of an image.
 
