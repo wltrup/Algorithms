@@ -1,6 +1,12 @@
 # Algorithms
 Here you'll find some technical essays I've written over the years that are of a more practical nature, algorithms of my own creation, some of which have actually been used in commercial software.
 
+##### (2020) [Some Thoughts on Dynamic Quantum Clustering](https://github.com/wltrup/Algs-DQC)
+
+A good friend of mine pointed me in the direction of a clustering algorithm called **Dynamic Quantum Clustering**, or **DQC** for short, which uses ideas from Quantum Mechanics to find the most likely cluster centers in a data set.
+
+I read the original papers and had a few insights of my own, which I'm summarizing in this essay. I may yet write a couple of actual research papers about these insights but that's a decision I haven't made yet.
+
 ##### (2019) [Independent Concurrent Animations of Multiple Parameters](https://github.com/wltrup/Algs-Parameter-Animations)
 
 This essay describes the mathematical steps needed to synchronize independent animations of multiple parameters, running concurrently, so as to minimize the number of function evaluations.
